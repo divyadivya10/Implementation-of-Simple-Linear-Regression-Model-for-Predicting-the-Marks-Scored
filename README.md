@@ -94,9 +94,11 @@ print("Reg no : 212222040040")
 ## Errors
 ![image](https://github.com/user-attachments/assets/17a29cc1-841d-4883-bb17-3c14cc5b03a3)
 ## Hours vs Scores training set
-![image](https://github.com/user-attachments/assets/27230549-5ee0-48c0-a2c0-1e61b764832a)
+![image](https://github.com/user-attachments/assets/5d4a653e-ed12-4e37-b26b-4d2cfb47d2cf)
+
 ## Hours vs Scores test set
-![image](https://github.com/user-attachments/assets/bb81cbea-81ca-46dd-b87e-c92869a7d827)
+![image](https://github.com/user-attachments/assets/78dee475-b12c-4a5c-9251-8cd880a71747)
+
 
 
 
